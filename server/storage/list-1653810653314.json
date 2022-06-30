@@ -1,0 +1,230 @@
+[
+	{
+		"_id": "62920e920943d11137079ce3",
+		"name": "All-purpose flour",
+		"units": "cup",
+		"__v": 0
+	},
+	{
+		"_id": "62920d543f8615c28f29c6f9",
+		"name": "Apple",
+		"units": "pcs",
+		"__v": 0
+	},
+	{
+		"_id": "62920f290943d11137079cfb",
+		"name": "Confectioners' sugar",
+		"units": "cup",
+		"__v": 0
+	},
+	{
+		"_id": "62921aa80943d11137079ece",
+		"name": "Container fat free frozen whipped topping, thawed",
+		"units": "gram",
+		"__v": 0
+	},
+	{
+		"_id": "62920ed30943d11137079cf1",
+		"name": "Eggs",
+		"units": "pcs",
+		"__v": 0
+	},
+	{
+		"_id": "62921b1a0943d11137079eea",
+		"name": "Graham cracker crumbs",
+		"units": "cup",
+		"__v": 0
+	},
+	{
+		"_id": "62920ebc0943d11137079ced",
+		"name": "Ground cinnamon",
+		"units": "teaspoon",
+		"__v": 0
+	},
+	{
+		"_id": "62920eb30943d11137079ceb",
+		"name": "Ground ginger",
+		"units": "teaspoon",
+		"__v": 0
+	},
+	{
+		"_id": "629219970943d11137079eac",
+		"name": "Heavy whipping cream",
+		"units": "cup",
+		"__v": 0
+	},
+	{
+		"_id": "62921bc10943d11137079eee",
+		"name": "Key lime juice",
+		"units": "cup",
+		"__v": 0
+	},
+	{
+		"_id": "62920d2d3f8615c28f29c6f7",
+		"name": "Lemon",
+		"units": "pcs",
+		"__v": 0
+	},
+	{
+		"_id": "62921a6c0943d11137079eca",
+		"name": "Prepared fat free vanilla pudding",
+		"units": "cup",
+		"__v": 0
+	},
+	{
+		"_id": "62920f774a47835543ef8c7f",
+		"name": "Raisins",
+		"units": "gram",
+		"__v": 0
+	},
+	{
+		"_id": "62920e9b0943d11137079ce5",
+		"name": "Salt",
+		"units": "teaspoon",
+		"__v": 0
+	},
+	{
+		"_id": "62920d653f8615c28f29c6fb",
+		"name": "Strawberry",
+		"units": "pcs",
+		"__v": 0
+	},
+	{
+		"_id": "62921b0c0943d11137079ee6",
+		"name": "Toasted slivered almonds",
+		"units": "cup",
+		"__v": 0
+	},
+	{
+		"_id": "62920ede0943d11137079cf3",
+		"name": "Unsalted butter",
+		"units": "cup",
+		"__v": 0
+	},
+	{
+		"_id": "6292185118feb1a23655071f",
+		"name": "Vanilla custard powder",
+		"units": "gram",
+		"__v": 0
+	},
+	{
+		"_id": "62920f1e0943d11137079cf9",
+		"name": "Vanilla extract",
+		"units": "teaspoon",
+		"__v": 0
+	},
+	{
+		"_id": "62920ec40943d11137079cef",
+		"name": "White sugar",
+		"units": "cup",
+		"__v": 0
+	},
+	{
+		"_id": "629217f50943d11137079dd0",
+		"name": "Whole milk",
+		"units": "cup",
+		"__v": 0
+	},
+	{
+		"_id": "62920eab0943d11137079ce9",
+		"name": "baking powder",
+		"units": "teaspoon",
+		"__v": 0
+	},
+	{
+		"_id": "62920ea40943d11137079ce7",
+		"name": "baking soda",
+		"units": "teaspoon",
+		"__v": 0
+	},
+	{
+		"_id": "629219ac18feb1a236550723",
+		"name": "butter",
+		"units": "teaspoon",
+		"__v": 0
+	},
+	{
+		"_id": "629217500943d11137079dcc",
+		"name": "cake flour",
+		"units": "cup",
+		"__v": 0
+	},
+	{
+		"_id": "62920ee80943d11137079cf5",
+		"name": "coconut oil",
+		"units": "cup",
+		"__v": 0
+	},
+	{
+		"_id": "62920f130943d11137079cf7",
+		"name": "cream cheese",
+		"units": "gram",
+		"__v": 0
+	},
+	{
+		"_id": "629216e018feb1a236550713",
+		"name": "dose of shortcrust pastry",
+		"units": "liter",
+		"__v": 0
+	},
+	{
+		"_id": "629217180943d11137079dc8",
+		"name": "freeze-dried strawberries",
+		"units": "gram",
+		"__v": 0
+	},
+	{
+		"_id": "629219a10943d11137079eb0",
+		"name": "half-and-half cream",
+		"units": "cup",
+		"__v": 0
+	},
+	{
+		"_id": "629232704a47835543ef928a",
+		"name": "name",
+		"units": "gram",
+		"__v": 0
+	},
+	{
+		"_id": "62922255d9cb5a0242192750",
+		"name": "rice",
+		"units": "gram",
+		"__v": 0
+	},
+	{
+		"_id": "62920f5e4a47835543ef8c7b",
+		"name": "shortcrust pastry (buyed)",
+		"units": "pcs",
+		"__v": 0
+	},
+	{
+		"_id": "6292170d18feb1a236550717",
+		"name": "stems of rhubarb",
+		"units": "gram",
+		"__v": 0
+	},
+	{
+		"_id": "6292173f18feb1a23655071b",
+		"name": "tablespoons cane sugar",
+		"units": "teaspoon",
+		"__v": 0
+	},
+	{
+		"_id": "62931c7615b3c5b274c86893",
+		"name": "test",
+		"units": "gram",
+		"__v": 0
+	},
+	{
+		"_id": "62931cc115b3c5b274c868f2",
+		"name": "test",
+		"units": "tablespoon",
+		"__v": 0
+	},
+	{
+		"_id": "62931de015b3c5b274c86957",
+		"name": "test3",
+		"units": "gram",
+		"__v": 0
+	}
+]

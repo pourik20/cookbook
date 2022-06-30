@@ -1,0 +1,1283 @@
+[
+	{
+		"_id": "6292108a4a47835543ef8c83",
+		"name": "Apple pie",
+		"description": "Traditional czech version of apple pie.",
+		"text": [
+			[
+				"Grease baking tray.",
+				"Put shortcrust pastry on bakin tray.",
+				"Grate apples.",
+				"Put grated apples on shortcrust pastry.",
+				"Put raisins on shortcrust pastry.",
+				"Tangle shortcrust pastry to roll.",
+				"Put the roll in preheated oven on 200 degrees for 20 minutes."
+			]
+		],
+		"prepLength": 1,
+		"ingredientList": [
+			{
+				"ingredient": {
+					"_id": "62920d543f8615c28f29c6f9",
+					"name": "Apple",
+					"units": "pcs",
+					"__v": 0
+				},
+				"amount": "3",
+				"_id": "6292108a4a47835543ef8c84"
+			},
+			{
+				"ingredient": {
+					"_id": "62920f5e4a47835543ef8c7b",
+					"name": "shortcrust pastry (buyed)",
+					"units": "pcs",
+					"__v": 0
+				},
+				"amount": "1",
+				"_id": "6292108a4a47835543ef8c85"
+			},
+			{
+				"ingredient": {
+					"_id": "62920f774a47835543ef8c7f",
+					"name": "Raisins",
+					"units": "gram",
+					"__v": 0
+				},
+				"amount": "100",
+				"_id": "6292108a4a47835543ef8c86"
+			}
+		],
+		"categoryList": [
+			{
+				"_id": "62920cb13f8615c28f29c6d6",
+				"name": "Pies",
+				"__v": 0
+			}
+		],
+		"rating": [
+			{
+				"score": 8,
+				"_id": "629214484a47835543ef8ceb"
+			},
+			{
+				"score": 10,
+				"_id": "629214484a47835543ef8cf7"
+			},
+			{
+				"score": 4,
+				"_id": "629214494a47835543ef8d03"
+			},
+			{
+				"score": 10,
+				"_id": "629221cbdfb1868fc9135453"
+			},
+			{
+				"score": 4,
+				"_id": "629221ccdfb1868fc913545f"
+			}
+		],
+		"createdAt": "2022-05-28T12:07:38.642Z",
+		"updatedAt": "2022-05-28T13:21:16.993Z",
+		"__v": 0
+	},
+	{
+		"_id": "629216860943d11137079dae",
+		"name": "Carrot Cake Roll",
+		"description": "It's carrot cake...rolled up and totally transportable! And it looks good too. Everyone loves it when I make it.",
+		"text": [
+			[
+				"Preheat the oven to 350 degrees F (175 degrees C). Line a rimmed cookie sheet or jelly roll pan with parchment paper.",
+				"Combine eggs and sugar in a mixing bowl. Add carrot and pineapple.",
+				"Mix flour, cinnamon, baking powder, and salt together in a separate bowl. Pour in egg mixture; mix until it comes together. Spread batter on the prepared baking sheet.",
+				"Bake in the preheated oven for 15 minutes. Allow to cool completely, about 30 minutes.",
+				"Beat cream cheese, powdered sugar, and vanilla extract together in a bowl. Spread cream cheese filling evenly over the cooled cake. Sprinkle walnuts on top of filling.",
+				"Run a spatula under the cake to loosen from the parchment paper. Grab the paper from one end and start rolling, pulling the paper away as you do. Roll up and refrigerate for 1 hour before cutting."
+			]
+		],
+		"prepLength": 125,
+		"ingredientList": [
+			{
+				"ingredient": {
+					"_id": "62920ed30943d11137079cf1",
+					"name": "Eggs",
+					"units": "pcs",
+					"__v": 0
+				},
+				"amount": "3",
+				"_id": "629221394a47835543ef8f62"
+			},
+			{
+				"ingredient": {
+					"_id": "62920ec40943d11137079cef",
+					"name": "White sugar",
+					"units": "cup",
+					"__v": 0
+				},
+				"amount": "1",
+				"_id": "629221394a47835543ef8f63"
+			},
+			{
+				"ingredient": {
+					"_id": "62920e920943d11137079ce3",
+					"name": "All-purpose flour",
+					"units": "cup",
+					"__v": 0
+				},
+				"amount": "1",
+				"_id": "629221394a47835543ef8f64"
+			},
+			{
+				"ingredient": {
+					"_id": "62920ebc0943d11137079ced",
+					"name": "Ground cinnamon",
+					"units": "teaspoon",
+					"__v": 0
+				},
+				"amount": "2",
+				"_id": "629221394a47835543ef8f65"
+			},
+			{
+				"ingredient": {
+					"_id": "62920eab0943d11137079ce9",
+					"name": "baking powder",
+					"units": "teaspoon",
+					"__v": 0
+				},
+				"amount": "2",
+				"_id": "629221394a47835543ef8f66"
+			},
+			{
+				"ingredient": {
+					"_id": "62920e9b0943d11137079ce5",
+					"name": "Salt",
+					"units": "teaspoon",
+					"__v": 0
+				},
+				"amount": "1",
+				"_id": "629221394a47835543ef8f67"
+			},
+			{
+				"ingredient": {
+					"_id": "62920f1e0943d11137079cf9",
+					"name": "Vanilla extract",
+					"units": "teaspoon",
+					"__v": 0
+				},
+				"amount": "1",
+				"_id": "629221394a47835543ef8f68"
+			},
+			{
+				"ingredient": {
+					"_id": "62920f130943d11137079cf7",
+					"name": "cream cheese",
+					"units": "gram",
+					"__v": 0
+				},
+				"amount": "50",
+				"_id": "629221394a47835543ef8f69"
+			}
+		],
+		"categoryList": [
+			{
+				"_id": "62920c753f8615c28f29c6d0",
+				"name": "Cakes",
+				"__v": 0
+			},
+			{
+				"_id": "62920c8e3f8615c28f29c6d4",
+				"name": "Sweets",
+				"__v": 0
+			}
+		],
+		"rating": [
+			{
+				"score": 8,
+				"_id": "62921fa54a47835543ef8f1a"
+			},
+			{
+				"score": 10,
+				"_id": "62923e65dfb1868fc913599e"
+			},
+			{
+				"score": 2,
+				"_id": "62923e69dfb1868fc91359aa"
+			},
+			{
+				"score": 2,
+				"_id": "62923e69dfb1868fc91359b6"
+			},
+			{
+				"score": 2,
+				"_id": "62923e69dfb1868fc91359bf"
+			},
+			{
+				"score": 2,
+				"_id": "62923e69dfb1868fc91359c9"
+			},
+			{
+				"score": 2,
+				"_id": "62923e69dfb1868fc91359d6"
+			},
+			{
+				"score": 2,
+				"_id": "62923e6adfb1868fc91359e6"
+			},
+			{
+				"score": 2,
+				"_id": "62923e6adfb1868fc91359ee"
+			},
+			{
+				"score": 2,
+				"_id": "62923e6adfb1868fc91359fe"
+			},
+			{
+				"score": 10,
+				"_id": "62923e6ddfb1868fc9135a0a"
+			},
+			{
+				"score": 10,
+				"_id": "62923e6ddfb1868fc9135a16"
+			},
+			{
+				"score": 10,
+				"_id": "62923e6edfb1868fc9135a24"
+			},
+			{
+				"score": 10,
+				"_id": "62923e6edfb1868fc9135a2e"
+			},
+			{
+				"score": 10,
+				"_id": "62923e6edfb1868fc9135a3a"
+			},
+			{
+				"score": 10,
+				"_id": "62923e6edfb1868fc9135a44"
+			},
+			{
+				"score": 10,
+				"_id": "62923e6edfb1868fc9135a4e"
+			},
+			{
+				"score": 10,
+				"_id": "62923e6edfb1868fc9135a59"
+			},
+			{
+				"score": 10,
+				"_id": "62923e6edfb1868fc9135a68"
+			},
+			{
+				"score": 10,
+				"_id": "62923e6fdfb1868fc9135a76"
+			},
+			{
+				"score": 10,
+				"_id": "62923e6fdfb1868fc9135a82"
+			},
+			{
+				"score": 10,
+				"_id": "62923e6fdfb1868fc9135a8e"
+			},
+			{
+				"score": 10,
+				"_id": "62923e6fdfb1868fc9135a9a"
+			},
+			{
+				"score": 10,
+				"_id": "62923e72dfb1868fc9135aa6"
+			},
+			{
+				"score": 10,
+				"_id": "62923e72dfb1868fc9135ab2"
+			},
+			{
+				"score": 10,
+				"_id": "62923e72dfb1868fc9135abb"
+			},
+			{
+				"score": 10,
+				"_id": "62923e72dfb1868fc9135ac9"
+			},
+			{
+				"score": 10,
+				"_id": "62923e72dfb1868fc9135ad6"
+			},
+			{
+				"score": 10,
+				"_id": "62923e73dfb1868fc9135ae2"
+			},
+			{
+				"score": 10,
+				"_id": "62923e73dfb1868fc9135af0"
+			},
+			{
+				"score": 10,
+				"_id": "62923e73dfb1868fc9135afa"
+			},
+			{
+				"score": 10,
+				"_id": "62923e73dfb1868fc9135b06"
+			},
+			{
+				"score": 10,
+				"_id": "62923e73dfb1868fc9135b12"
+			},
+			{
+				"score": 10,
+				"_id": "62923e76dfb1868fc9135b1e"
+			},
+			{
+				"score": 10,
+				"_id": "62923e77dfb1868fc9135b2a"
+			},
+			{
+				"score": 10,
+				"_id": "62923e77dfb1868fc9135b36"
+			},
+			{
+				"score": 10,
+				"_id": "62923e77dfb1868fc9135b43"
+			},
+			{
+				"score": 10,
+				"_id": "62923e77dfb1868fc9135b4e"
+			},
+			{
+				"score": 10,
+				"_id": "62923e77dfb1868fc9135b5d"
+			},
+			{
+				"score": 10,
+				"_id": "62923e77dfb1868fc9135b66"
+			},
+			{
+				"score": 10,
+				"_id": "62923e78dfb1868fc9135b72"
+			},
+			{
+				"score": 10,
+				"_id": "62923e78dfb1868fc9135b7e"
+			},
+			{
+				"score": 10,
+				"_id": "62923e78dfb1868fc9135b8a"
+			},
+			{
+				"score": 10,
+				"_id": "62923e78dfb1868fc9135b98"
+			},
+			{
+				"score": 10,
+				"_id": "62923e78dfb1868fc9135ba3"
+			},
+			{
+				"score": 10,
+				"_id": "62923e78dfb1868fc9135bb1"
+			},
+			{
+				"score": 10,
+				"_id": "62923e78dfb1868fc9135bbd"
+			},
+			{
+				"score": 10,
+				"_id": "62923e79dfb1868fc9135bc8"
+			},
+			{
+				"score": 10,
+				"_id": "62923e79dfb1868fc9135bd2"
+			},
+			{
+				"score": 10,
+				"_id": "62923e79dfb1868fc9135bde"
+			},
+			{
+				"score": 10,
+				"_id": "62923e79dfb1868fc9135bea"
+			},
+			{
+				"score": 10,
+				"_id": "62923e79dfb1868fc9135bf6"
+			},
+			{
+				"score": 10,
+				"_id": "62923e79dfb1868fc9135bff"
+			},
+			{
+				"score": 10,
+				"_id": "62923e79dfb1868fc9135c09"
+			},
+			{
+				"score": 10,
+				"_id": "62923e7adfb1868fc9135c17"
+			},
+			{
+				"score": 10,
+				"_id": "62923e7adfb1868fc9135c26"
+			},
+			{
+				"score": 10,
+				"_id": "62923e7adfb1868fc9135c32"
+			},
+			{
+				"score": 10,
+				"_id": "62923e7adfb1868fc9135c3e"
+			},
+			{
+				"score": 10,
+				"_id": "62923e7adfb1868fc9135c4a"
+			},
+			{
+				"score": 10,
+				"_id": "62923e7ddfb1868fc9135c56"
+			},
+			{
+				"score": 10,
+				"_id": "62923e7ddfb1868fc9135c62"
+			},
+			{
+				"score": 10,
+				"_id": "62923e7ddfb1868fc9135c6e"
+			},
+			{
+				"score": 10,
+				"_id": "62923e7ddfb1868fc9135c7a"
+			},
+			{
+				"score": 10,
+				"_id": "62923e7ddfb1868fc9135c86"
+			},
+			{
+				"score": 10,
+				"_id": "62923e7ddfb1868fc9135c90"
+			},
+			{
+				"score": 10,
+				"_id": "62923e7edfb1868fc9135c9e"
+			},
+			{
+				"score": 10,
+				"_id": "62923e7edfb1868fc9135caa"
+			},
+			{
+				"score": 10,
+				"_id": "62923e7edfb1868fc9135cb6"
+			},
+			{
+				"score": 10,
+				"_id": "62923e7edfb1868fc9135cc2"
+			},
+			{
+				"score": 10,
+				"_id": "62923e7edfb1868fc9135cce"
+			},
+			{
+				"score": 10,
+				"_id": "62923e7edfb1868fc9135cda"
+			},
+			{
+				"score": 10,
+				"_id": "62923e7fdfb1868fc9135ce6"
+			},
+			{
+				"score": 10,
+				"_id": "62923e7fdfb1868fc9135cf0"
+			},
+			{
+				"score": 10,
+				"_id": "62923e7fdfb1868fc9135cfe"
+			},
+			{
+				"score": 10,
+				"_id": "62923e7fdfb1868fc9135d0a"
+			},
+			{
+				"score": 10,
+				"_id": "62923e7fdfb1868fc9135d14"
+			},
+			{
+				"score": 10,
+				"_id": "62923e7fdfb1868fc9135d22"
+			},
+			{
+				"score": 10,
+				"_id": "62923e7fdfb1868fc9135d2e"
+			}
+		],
+		"createdAt": "2022-05-28T12:33:10.288Z",
+		"updatedAt": "2022-05-28T15:23:43.963Z",
+		"__v": 0
+	},
+	{
+		"_id": "629210750943d11137079d0b",
+		"name": "Chef John's Carrot Cake",
+		"description": "My old and trusty recipe for carrot cake, revamped with coconut oil this time. If you want to decorate it with candied carrots, simply slice them thinly and boil for a couple minutes in a syrup made from equal parts sugar and water.",
+		"text": [
+			[
+				"Preheat the oven to 350 degrees F (175 degrees C).",
+				"Place flour in a bowl. Add salt, baking soda, and baking powder. Sprinkle in ground ginger and cinnamon. Whisk thoroughly until combined. Set aside.",
+				"Add sugar to a separate bowl. Whisk in eggs until mixture is smooth and pale yellow, 2 to 3 minutes.",
+				"Heat butter and coconut oil in a saucepan over low heat until just melted but not too hot. Whisk into the bowl with the eggs and sugar until well combined. Add carrots, crushed pineapple, pecans, and walnuts. Stir well.",
+				"Stir flour mixture into the carrot mixture until no dry spots remain. Pour batter into a greased 9x13-inch baking pan. Tap the pan against your counter to let any big air bubbles rise to the surface.",
+				"Bake in the preheated oven until a toothpick inserted into the cake comes out clean, 40 to 45 minutes. Let cool completely before frosting, at least 40 minutes.",
+				"Beat cream cheese, butter, and vanilla extract together using an electric mixer until light and fluffy. Gradually beat in the confectioners' sugar to form a smooth frosting. Spread evenly over the cooled cake. Chill completely before slicing."
+			]
+		],
+		"prepLength": 95,
+		"ingredientList": [
+			{
+				"ingredient": {
+					"_id": "62920e920943d11137079ce3",
+					"name": "All-purpose flour",
+					"units": "cup",
+					"__v": 0
+				},
+				"amount": "2",
+				"_id": "629210750943d11137079d0c"
+			},
+			{
+				"ingredient": {
+					"_id": "62920e9b0943d11137079ce5",
+					"name": "Salt",
+					"units": "teaspoon",
+					"__v": 0
+				},
+				"amount": "1",
+				"_id": "629210750943d11137079d0d"
+			},
+			{
+				"ingredient": {
+					"_id": "62920ea40943d11137079ce7",
+					"name": "baking soda",
+					"units": "teaspoon",
+					"__v": 0
+				},
+				"amount": "1",
+				"_id": "629210750943d11137079d0e"
+			},
+			{
+				"ingredient": {
+					"_id": "62920eab0943d11137079ce9",
+					"name": "baking powder",
+					"units": "teaspoon",
+					"__v": 0
+				},
+				"amount": "2",
+				"_id": "629210750943d11137079d0f"
+			},
+			{
+				"ingredient": {
+					"_id": "62920eb30943d11137079ceb",
+					"name": "Ground ginger",
+					"units": "teaspoon",
+					"__v": 0
+				},
+				"amount": "1",
+				"_id": "629210750943d11137079d10"
+			},
+			{
+				"ingredient": {
+					"_id": "62920ebc0943d11137079ced",
+					"name": "Ground cinnamon",
+					"units": "teaspoon",
+					"__v": 0
+				},
+				"amount": "2",
+				"_id": "629210750943d11137079d11"
+			},
+			{
+				"ingredient": {
+					"_id": "62920ec40943d11137079cef",
+					"name": "White sugar",
+					"units": "cup",
+					"__v": 0
+				},
+				"amount": "2",
+				"_id": "629210750943d11137079d12"
+			},
+			{
+				"ingredient": {
+					"_id": "62920ed30943d11137079cf1",
+					"name": "Eggs",
+					"units": "pcs",
+					"__v": 0
+				},
+				"amount": "4",
+				"_id": "629210750943d11137079d13"
+			},
+			{
+				"ingredient": {
+					"_id": "62920ede0943d11137079cf3",
+					"name": "Unsalted butter",
+					"units": "cup",
+					"__v": 0
+				},
+				"amount": "1",
+				"_id": "629210750943d11137079d14"
+			},
+			{
+				"ingredient": {
+					"_id": "62920ee80943d11137079cf5",
+					"name": "coconut oil",
+					"units": "cup",
+					"__v": 0
+				},
+				"amount": "1",
+				"_id": "629210750943d11137079d15"
+			},
+			{
+				"ingredient": {
+					"_id": "62920f130943d11137079cf7",
+					"name": "cream cheese",
+					"units": "gram",
+					"__v": 0
+				},
+				"amount": "50",
+				"_id": "629210750943d11137079d16"
+			},
+			{
+				"ingredient": {
+					"_id": "62920f1e0943d11137079cf9",
+					"name": "Vanilla extract",
+					"units": "teaspoon",
+					"__v": 0
+				},
+				"amount": "2",
+				"_id": "629210750943d11137079d17"
+			},
+			{
+				"ingredient": {
+					"_id": "62920f290943d11137079cfb",
+					"name": "Confectioners' sugar",
+					"units": "cup",
+					"__v": 0
+				},
+				"amount": "3",
+				"_id": "629210750943d11137079d18"
+			}
+		],
+		"categoryList": [
+			{
+				"_id": "62920c753f8615c28f29c6d0",
+				"name": "Cakes",
+				"__v": 0
+			}
+		],
+		"rating": [
+			{
+				"score": 6,
+				"_id": "629210910943d11137079d36"
+			}
+		],
+		"createdAt": "2022-05-28T12:07:17.172Z",
+		"updatedAt": "2022-05-28T12:07:45.539Z",
+		"__v": 0
+	},
+	{
+		"_id": "62921bf20943d11137079ef2",
+		"name": "Phoenician's Key Lime Pie",
+		"description": "When I moved from Lebanon to Florida spring of 1999, I brought with me my love for cooking and search for new recipes. The famous key lime pie was new to me. It was a friend's best dessert, and he used to buy it from Costco every time we go for shopping. I tasted the pie at several places, but they were missing that wow flavor. I kept playing with the recipe, and the right flavor is found. I live now in North Bay, Ontario, and we only get the Key Limes twice a year, so sometimes I substitute with fresh lime juice. I hope you all enjoy!!",
+		"text": [
+			[
+				"Preheat an oven to 350 degrees F (175 degrees C).",
+				"Pulse the almonds in a food processor until finely ground. Combine the almonds with the graham cracker crumbs, sugar, and salt. Pour in the melted butter and mix until evenly moistened. Press into a 9-inch pie plate.",
+				"Bake the crust in the preheated oven until golden brown, 10 to 13 minutes.",
+				"hile the crust is baking, beat the egg yolks in a bowl with the condensed milk, cream, and lime zest. Whisk in the lime juice a little at a time to thicken the custard. Pour the custard into the pie crust and return to the oven.",
+				"Bake in the oven for 15 minutes to help the custard begin to set. Cool to room temperature on a wire rack before covering loosely with plastic wrap and refrigerating overnight."
+			]
+		],
+		"prepLength": 645,
+		"ingredientList": [
+			{
+				"ingredient": {
+					"_id": "62921b0c0943d11137079ee6",
+					"name": "Toasted slivered almonds",
+					"units": "cup",
+					"__v": 0
+				},
+				"amount": "1",
+				"_id": "62921bf20943d11137079ef3"
+			},
+			{
+				"ingredient": {
+					"_id": "62921b1a0943d11137079eea",
+					"name": "Graham cracker crumbs",
+					"units": "cup",
+					"__v": 0
+				},
+				"amount": "1",
+				"_id": "62921bf20943d11137079ef4"
+			},
+			{
+				"ingredient": {
+					"_id": "62920ec40943d11137079cef",
+					"name": "White sugar",
+					"units": "cup",
+					"__v": 0
+				},
+				"amount": "1",
+				"_id": "62921bf20943d11137079ef5"
+			},
+			{
+				"ingredient": {
+					"_id": "62920e9b0943d11137079ce5",
+					"name": "Salt",
+					"units": "teaspoon",
+					"__v": 0
+				},
+				"amount": "1",
+				"_id": "62921bf20943d11137079ef6"
+			},
+			{
+				"ingredient": {
+					"_id": "629219ac18feb1a236550723",
+					"name": "butter",
+					"units": "teaspoon",
+					"__v": 0
+				},
+				"amount": "1",
+				"_id": "62921bf20943d11137079ef7"
+			},
+			{
+				"ingredient": {
+					"_id": "62920ed30943d11137079cf1",
+					"name": "Eggs",
+					"units": "pcs",
+					"__v": 0
+				},
+				"amount": "4",
+				"_id": "62921bf20943d11137079ef8"
+			},
+			{
+				"ingredient": {
+					"_id": "62920f290943d11137079cfb",
+					"name": "Confectioners' sugar",
+					"units": "cup",
+					"__v": 0
+				},
+				"amount": "1",
+				"_id": "62921bf20943d11137079ef9"
+			},
+			{
+				"ingredient": {
+					"_id": "62921bc10943d11137079eee",
+					"name": "Key lime juice",
+					"units": "cup",
+					"__v": 0
+				},
+				"amount": "1",
+				"_id": "62921bf20943d11137079efa"
+			},
+			{
+				"ingredient": {
+					"_id": "629219970943d11137079eac",
+					"name": "Heavy whipping cream",
+					"units": "cup",
+					"__v": 0
+				},
+				"amount": "1",
+				"_id": "62921bf20943d11137079efb"
+			}
+		],
+		"categoryList": [
+			{
+				"_id": "62920cb13f8615c28f29c6d6",
+				"name": "Pies",
+				"__v": 0
+			},
+			{
+				"_id": "62920c8e3f8615c28f29c6d4",
+				"name": "Sweets",
+				"__v": 0
+			}
+		],
+		"rating": [
+			{
+				"score": 10,
+				"_id": "62921eebd9cb5a0242192638"
+			},
+			{
+				"score": 8,
+				"_id": "62921eecd9cb5a0242192644"
+			},
+			{
+				"score": 6,
+				"_id": "62921eedd9cb5a0242192650"
+			},
+			{
+				"score": 8,
+				"_id": "62921eeed9cb5a024219265c"
+			},
+			{
+				"score": 4,
+				"_id": "62921eeed9cb5a0242192668"
+			},
+			{
+				"score": 10,
+				"_id": "62921ef0d9cb5a0242192674"
+			},
+			{
+				"score": 6,
+				"_id": "62921ef0d9cb5a0242192680"
+			},
+			{
+				"score": 10,
+				"_id": "62921ef1d9cb5a024219268c"
+			},
+			{
+				"score": 6,
+				"_id": "62921ef2d9cb5a0242192698"
+			},
+			{
+				"score": 2,
+				"_id": "62921ef5d9cb5a02421926a4"
+			},
+			{
+				"score": 2,
+				"_id": "62921ef6d9cb5a02421926b0"
+			},
+			{
+				"score": 10,
+				"_id": "62921ef8d9cb5a02421926bc"
+			}
+		],
+		"createdAt": "2022-05-28T12:56:18.843Z",
+		"updatedAt": "2022-05-28T13:09:12.253Z",
+		"__v": 0
+	},
+	{
+		"_id": "62921ab60943d11137079ed2",
+		"name": "Quick Ice Cream",
+		"description": "This is a quick recipe for ice cream. For mousse, freeze for four hours, then refrigerate 30 minutes before serving.",
+		"text": [
+			[
+				"Fold the pudding together with the whipped topping. Return to whipped topping container and freeze 8 hours or overnight with lid slightly open."
+			]
+		],
+		"prepLength": 10,
+		"ingredientList": [
+			{
+				"ingredient": {
+					"_id": "62921a6c0943d11137079eca",
+					"name": "Prepared fat free vanilla pudding",
+					"units": "cup",
+					"__v": 0
+				},
+				"amount": "1",
+				"_id": "62931ece15b3c5b274c86a11"
+			}
+		],
+		"categoryList": [
+			{
+				"_id": "62920c7a3f8615c28f29c6d2",
+				"name": "Ice creams",
+				"__v": 0
+			},
+			{
+				"_id": "62920ccf3f8615c28f29c6d8",
+				"name": "Unbaked",
+				"__v": 0
+			}
+		],
+		"rating": [
+			{
+				"score": 8,
+				"_id": "62922f134a47835543ef90cd"
+			},
+			{
+				"score": 10,
+				"_id": "62922f164a47835543ef90d9"
+			},
+			{
+				"score": 8,
+				"_id": "62922f2b4a47835543ef90e5"
+			},
+			{
+				"score": 2,
+				"_id": "62922f2d4a47835543ef90f1"
+			},
+			{
+				"score": 8,
+				"_id": "62931ec515b3c5b274c86a05"
+			}
+		],
+		"createdAt": "2022-05-28T12:51:02.998Z",
+		"updatedAt": "2022-05-29T07:20:46.222Z",
+		"__v": 0
+	},
+	{
+		"_id": "6292182f0943d11137079dd4",
+		"name": "Real Strawberry Cupcakes",
+		"description": "I've been messing around trying to make a perfect strawberry cupcake to go with the Real Strawberry Frosting I developed a couple of years ago. It's been a long road and lots of cupcakes tested and tasted along the way. The trick was NOT using puree as I do when making the frosting. Rather, grinding freeze-dried strawberries into a powder brought this cupcake recipe out of my test kitchen and into my recipe box! I am so pleased with the results!",
+		"text": [
+			[
+				"Preheat oven to 350 degrees F (175 degrees C). Line muffin tins with 20 cupcake liners (for mini cupcakes, line 72 mini muffin tins).",
+				"Grind strawberries into a fine powder using a coffee grinder or food processor. Whisk strawberry powder, all-purpose flour, cake flour, baking powder, baking soda, and salt together in a bowl.",
+				"Beat butter and sugar in a bowl with an electric mixer until light and fluffy. Mixture should be noticeably lighter in color. Add room-temperature eggs one at a time, allowing each egg to blend into butter mixture before adding the next. Beat in vanilla extract.",
+				"Stir flour mixture, alternately with the milk, into butter mixture until just incorporated. Fill lined tins with cupcake batter.",
+				"Bake in preheated oven until cupcakes spring back when gently touched with a fingertip or a toothpick inserted in the center comes out clean, 16 to 18 minutes for regular cupcakes, 8 to 10 minutes for mini cupcakes."
+			]
+		],
+		"prepLength": 47,
+		"ingredientList": [
+			{
+				"ingredient": {
+					"_id": "629217180943d11137079dc8",
+					"name": "freeze-dried strawberries",
+					"units": "gram",
+					"__v": 0
+				},
+				"amount": "35",
+				"_id": "62921df94a47835543ef8ed3"
+			},
+			{
+				"ingredient": {
+					"_id": "62920e920943d11137079ce3",
+					"name": "All-purpose flour",
+					"units": "cup",
+					"__v": 0
+				},
+				"amount": "2",
+				"_id": "62921df94a47835543ef8ed4"
+			},
+			{
+				"ingredient": {
+					"_id": "629217500943d11137079dcc",
+					"name": "cake flour",
+					"units": "cup",
+					"__v": 0
+				},
+				"amount": "1",
+				"_id": "62921df94a47835543ef8ed5"
+			},
+			{
+				"ingredient": {
+					"_id": "62920eab0943d11137079ce9",
+					"name": "baking powder",
+					"units": "teaspoon",
+					"__v": 0
+				},
+				"amount": "2",
+				"_id": "62921df94a47835543ef8ed6"
+			},
+			{
+				"ingredient": {
+					"_id": "62920ea40943d11137079ce7",
+					"name": "baking soda",
+					"units": "teaspoon",
+					"__v": 0
+				},
+				"amount": "1",
+				"_id": "62921df94a47835543ef8ed7"
+			},
+			{
+				"ingredient": {
+					"_id": "62920e9b0943d11137079ce5",
+					"name": "Salt",
+					"units": "teaspoon",
+					"__v": 0
+				},
+				"amount": "1",
+				"_id": "62921df94a47835543ef8ed8"
+			},
+			{
+				"ingredient": {
+					"_id": "62920ede0943d11137079cf3",
+					"name": "Unsalted butter",
+					"units": "cup",
+					"__v": 0
+				},
+				"amount": "1",
+				"_id": "62921df94a47835543ef8ed9"
+			},
+			{
+				"ingredient": {
+					"_id": "62920ec40943d11137079cef",
+					"name": "White sugar",
+					"units": "cup",
+					"__v": 0
+				},
+				"amount": "2",
+				"_id": "62921df94a47835543ef8eda"
+			},
+			{
+				"ingredient": {
+					"_id": "62920ed30943d11137079cf1",
+					"name": "Eggs",
+					"units": "pcs",
+					"__v": 0
+				},
+				"amount": "3",
+				"_id": "62921df94a47835543ef8edb"
+			},
+			{
+				"ingredient": {
+					"_id": "62920f1e0943d11137079cf9",
+					"name": "Vanilla extract",
+					"units": "teaspoon",
+					"__v": 0
+				},
+				"amount": "1",
+				"_id": "62921df94a47835543ef8edc"
+			},
+			{
+				"ingredient": {
+					"_id": "629217f50943d11137079dd0",
+					"name": "Whole milk",
+					"units": "cup",
+					"__v": 0
+				},
+				"amount": "1",
+				"_id": "62921df94a47835543ef8edd"
+			}
+		],
+		"categoryList": [
+			{
+				"_id": "62920c603f8615c28f29c6cc",
+				"name": "Healthy",
+				"__v": 0
+			},
+			{
+				"_id": "62920c8e3f8615c28f29c6d4",
+				"name": "Sweets",
+				"__v": 0
+			},
+			{
+				"_id": "62920c753f8615c28f29c6d0",
+				"name": "Cakes",
+				"__v": 0
+			}
+		],
+		"rating": [
+			{
+				"score": 10,
+				"_id": "629220a867bdf1ef17108641"
+			},
+			{
+				"score": 8,
+				"_id": "629220ab67bdf1ef1710864d"
+			},
+			{
+				"score": 8,
+				"_id": "629220ab67bdf1ef17108656"
+			},
+			{
+				"score": 10,
+				"_id": "629220ac67bdf1ef17108660"
+			},
+			{
+				"score": 10,
+				"_id": "6292218f67bdf1ef17108671"
+			},
+			{
+				"score": 2,
+				"_id": "6292219167bdf1ef1710867d"
+			},
+			{
+				"score": 10,
+				"_id": "6292219467bdf1ef17108689"
+			},
+			{
+				"score": 2,
+				"_id": "6292219667bdf1ef17108695"
+			},
+			{
+				"score": 8,
+				"_id": "6292219967bdf1ef171086a1"
+			},
+			{
+				"score": 10,
+				"_id": "6292219b67bdf1ef171086ad"
+			}
+		],
+		"createdAt": "2022-05-28T12:40:15.978Z",
+		"updatedAt": "2022-05-28T13:20:27.312Z",
+		"__v": 0
+	},
+	{
+		"_id": "62921a0e18feb1a236550727",
+		"name": "Rhubarb pie ",
+		"description": "Máte rádi rebarboru a jemné koláče s vanilkovým krémem? Právě jste narazili na recept, který si pravděpodobně zamilujete. Je skvělý, a když těsto koupíte, tak i úplně jednoduchý. A drobenka je jen třešnička na dortu: pokud se vám do ní nechce nebo ji nemáte rádi, klidně ji vynechte. I tak si pochutnáte!",
+		"text": [
+			[
+				"Step 1: Either buy the shortcrust pastry ready or prepare it yourself. Great is the universal recipe for shortcrust pastry without eggs, which can also be used for savory cakes, or try traditional shortcrust pastry with butter and lard. One dose comes out approximately on a cake mold with a diameter of 24-26 cm, or on four small molds with a diameter of about 9 cm. In any case, let the dough rest in the cold for about 30 minutes to work with it better.",
+				"Krok 2: Zatím připravte náplň. Pudink uvařte podle návodu na obale a nechte vystydnout. Čas od času ho promíchejte, aby rychleji chladl a na povrchu se neudělal škraloup.",
+				"Krok 3: Stonky rebarbory oloupejte, nakrájejte na asi 3 cm dlouhé kousky a smíchejte s třtinovým cukrem a citronovou šťávou. Odložte bokem.",
+				"Krok 4: A teď je čas na drobenku. Mouku, cukr a povolené máslo dejte do misky a prsty vypracujte jemnou žmolenku."
+			]
+		],
+		"prepLength": 40,
+		"ingredientList": [
+			{
+				"ingredient": {
+					"_id": "629216e018feb1a236550713",
+					"name": "dose of shortcrust pastry",
+					"units": "liter",
+					"__v": 0
+				},
+				"amount": "1",
+				"_id": "62923bf1dfb1868fc91358c6"
+			},
+			{
+				"ingredient": {
+					"_id": "6292170d18feb1a236550717",
+					"name": "stems of rhubarb",
+					"units": "gram",
+					"__v": 0
+				},
+				"amount": "10",
+				"_id": "62923bf1dfb1868fc91358c7"
+			},
+			{
+				"ingredient": {
+					"_id": "6292173f18feb1a23655071b",
+					"name": "tablespoons cane sugar",
+					"units": "teaspoon",
+					"__v": 0
+				},
+				"amount": "2",
+				"_id": "62923bf1dfb1868fc91358c8"
+			},
+			{
+				"ingredient": {
+					"_id": "62920d2d3f8615c28f29c6f7",
+					"name": "Lemon",
+					"units": "pcs",
+					"__v": 0
+				},
+				"amount": "1",
+				"_id": "62923bf1dfb1868fc91358c9"
+			},
+			{
+				"ingredient": {
+					"_id": "6292185118feb1a23655071f",
+					"name": "Vanilla custard powder",
+					"units": "gram",
+					"__v": 0
+				},
+				"amount": "3",
+				"_id": "62923bf1dfb1868fc91358ca"
+			},
+			{
+				"ingredient": {
+					"_id": "62920ec40943d11137079cef",
+					"name": "White sugar",
+					"units": "cup",
+					"__v": 0
+				},
+				"amount": "1",
+				"_id": "62923bf1dfb1868fc91358cb"
+			},
+			{
+				"ingredient": {
+					"_id": "629217500943d11137079dcc",
+					"name": "cake flour",
+					"units": "cup",
+					"__v": 0
+				},
+				"amount": "1",
+				"_id": "62923bf1dfb1868fc91358cc"
+			},
+			{
+				"ingredient": {
+					"_id": "629219ac18feb1a236550723",
+					"name": "butter",
+					"units": "teaspoon",
+					"__v": 0
+				},
+				"amount": "2",
+				"_id": "62923bf1dfb1868fc91358cd"
+			}
+		],
+		"categoryList": [
+			{
+				"_id": "62920c753f8615c28f29c6d0",
+				"name": "Cakes",
+				"__v": 0
+			}
+		],
+		"rating": [
+			{
+				"score": 8,
+				"_id": "62921a4e18feb1a236550762"
+			},
+			{
+				"score": 8,
+				"_id": "62931ef815b3c5b274c86a47"
+			}
+		],
+		"createdAt": "2022-05-28T12:48:14.690Z",
+		"updatedAt": "2022-05-29T07:21:28.537Z",
+		"__v": 0
+	},
+	{
+		"_id": "629219f20943d11137079eb4",
+		"name": "Vanilla Ice Cream",
+		"description": "No cooking involved in this recipe for homemade ice cream using just cream, sugar, and vanilla with your ice cream maker.",
+		"text": [
+			[
+				"In a large bowl, combine the heavy cream and the half and half. Gradually whisk in the sugar until blended.",
+				"Whisk in the vanilla. Refrigerate, covered, until very cold, at least 3 hours or as long as 3 days.",
+				"Whisk the mixture to blend and pour into the canister of an ice cream maker. Freeze according to the manufacturer's directions. Eat at once or transfer to a covered container and freeze up to 8 hours."
+			]
+		],
+		"prepLength": 210,
+		"ingredientList": [
+			{
+				"ingredient": {
+					"_id": "629219970943d11137079eac",
+					"name": "Heavy whipping cream",
+					"units": "cup",
+					"__v": 0
+				},
+				"amount": "2",
+				"_id": "629219f20943d11137079eb5"
+			},
+			{
+				"ingredient": {
+					"_id": "629219a10943d11137079eb0",
+					"name": "half-and-half cream",
+					"units": "cup",
+					"__v": 0
+				},
+				"amount": "1",
+				"_id": "629219f20943d11137079eb6"
+			},
+			{
+				"ingredient": {
+					"_id": "62920ec40943d11137079cef",
+					"name": "White sugar",
+					"units": "cup",
+					"__v": 0
+				},
+				"amount": "1",
+				"_id": "629219f20943d11137079eb7"
+			},
+			{
+				"ingredient": {
+					"_id": "62920f1e0943d11137079cf9",
+					"name": "Vanilla extract",
+					"units": "teaspoon",
+					"__v": 0
+				},
+				"amount": "1",
+				"_id": "629219f20943d11137079eb8"
+			}
+		],
+		"categoryList": [
+			{
+				"_id": "62920c7a3f8615c28f29c6d2",
+				"name": "Ice creams",
+				"__v": 0
+			},
+			{
+				"_id": "62920ccf3f8615c28f29c6d8",
+				"name": "Unbaked",
+				"__v": 0
+			}
+		],
+		"rating": [],
+		"createdAt": "2022-05-28T12:47:46.354Z",
+		"updatedAt": "2022-05-28T12:47:46.354Z",
+		"__v": 0
+	}
+]

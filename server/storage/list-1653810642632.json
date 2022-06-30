@@ -1,0 +1,32 @@
+[
+	{
+		"_id": "62920c753f8615c28f29c6d0",
+		"name": "Cakes",
+		"__v": 0
+	},
+	{
+		"_id": "62920c603f8615c28f29c6cc",
+		"name": "Healthy",
+		"__v": 0
+	},
+	{
+		"_id": "62920c7a3f8615c28f29c6d2",
+		"name": "Ice creams",
+		"__v": 0
+	},
+	{
+		"_id": "62920cb13f8615c28f29c6d6",
+		"name": "Pies",
+		"__v": 0
+	},
+	{
+		"_id": "62920c8e3f8615c28f29c6d4",
+		"name": "Sweets",
+		"__v": 0
+	},
+	{
+		"_id": "62920ccf3f8615c28f29c6d8",
+		"name": "Unbaked",
+		"__v": 0
+	}
+]
