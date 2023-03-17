@@ -10,7 +10,7 @@ const ingredientRouter = require("./controller/ingredient-controller");
 const app = express();
 
 const dbURI =
-	"mongodb+srv://admin:uzovka9983@uucookbook.877zm.mongodb.net/cookbook?retryWrites=true&w=majority";
+	"mongodb://localhost:27017";
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
